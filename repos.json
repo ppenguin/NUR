@@ -534,6 +534,10 @@
             "github-contact": "pniedzwiedzinski",
             "url": "https://github.com/pniedzwiedzinski/pnpkgs"
         },
+        "ppenguin": {
+            "github-contact": "ppenguin",
+            "url": "https://github.com/ppenguin/nur-packages"
+        },
         "priegger": {
             "file": "nur.nix",
             "github-contact": "priegger",
